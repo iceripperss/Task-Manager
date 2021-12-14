@@ -1,0 +1,48 @@
+/Users/petrhryhoruk/RiderProjects/Task Manager/DAL/bin/Debug/net5.0/DAL.deps.json
+/Users/petrhryhoruk/RiderProjects/Task Manager/DAL/bin/Debug/net5.0/DAL.dll
+/Users/petrhryhoruk/RiderProjects/Task Manager/DAL/bin/Debug/net5.0/ref/DAL.dll
+/Users/petrhryhoruk/RiderProjects/Task Manager/DAL/bin/Debug/net5.0/DAL.pdb
+/Users/petrhryhoruk/RiderProjects/Task Manager/DAL/obj/Debug/net5.0/DAL.csproj.AssemblyReference.cache
+/Users/petrhryhoruk/RiderProjects/Task Manager/DAL/obj/Debug/net5.0/DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrhryhoruk/RiderProjects/Task Manager/DAL/obj/Debug/net5.0/DAL.AssemblyInfoInputs.cache
+/Users/petrhryhoruk/RiderProjects/Task Manager/DAL/obj/Debug/net5.0/DAL.AssemblyInfo.cs
+/Users/petrhryhoruk/RiderProjects/Task Manager/DAL/obj/Debug/net5.0/DAL.csproj.CoreCompileInputs.cache
+/Users/petrhryhoruk/RiderProjects/Task Manager/DAL/obj/Debug/net5.0/DAL.dll
+/Users/petrhryhoruk/RiderProjects/Task Manager/DAL/obj/Debug/net5.0/ref/DAL.dll
+/Users/petrhryhoruk/RiderProjects/Task Manager/DAL/obj/Debug/net5.0/DAL.pdb
+C:/KPI/Task Manager/DAL/bin/Debug/net5.0/DAL.deps.json
+C:/KPI/Task Manager/DAL/bin/Debug/net5.0/DAL.dll
+C:/KPI/Task Manager/DAL/bin/Debug/net5.0/ref/DAL.dll
+C:/KPI/Task Manager/DAL/bin/Debug/net5.0/DAL.pdb
+C:/KPI/Task Manager/DAL/obj/Debug/net5.0/DAL.csproj.AssemblyReference.cache
+C:/KPI/Task Manager/DAL/obj/Debug/net5.0/DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:/KPI/Task Manager/DAL/obj/Debug/net5.0/DAL.AssemblyInfoInputs.cache
+C:/KPI/Task Manager/DAL/obj/Debug/net5.0/DAL.AssemblyInfo.cs
+C:/KPI/Task Manager/DAL/obj/Debug/net5.0/DAL.csproj.CoreCompileInputs.cache
+C:/KPI/Task Manager/DAL/obj/Debug/net5.0/DAL.dll
+C:/KPI/Task Manager/DAL/obj/Debug/net5.0/ref/DAL.dll
+C:/KPI/Task Manager/DAL/obj/Debug/net5.0/DAL.pdb
+/Users/petrhryhoruk/Downloads/Task Manager/DAL/bin/Debug/net5.0/DAL.deps.json
+/Users/petrhryhoruk/Downloads/Task Manager/DAL/bin/Debug/net5.0/DAL.dll
+/Users/petrhryhoruk/Downloads/Task Manager/DAL/bin/Debug/net5.0/ref/DAL.dll
+/Users/petrhryhoruk/Downloads/Task Manager/DAL/bin/Debug/net5.0/DAL.pdb
+/Users/petrhryhoruk/Downloads/Task Manager/DAL/obj/Debug/net5.0/DAL.csproj.AssemblyReference.cache
+/Users/petrhryhoruk/Downloads/Task Manager/DAL/obj/Debug/net5.0/DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrhryhoruk/Downloads/Task Manager/DAL/obj/Debug/net5.0/DAL.AssemblyInfoInputs.cache
+/Users/petrhryhoruk/Downloads/Task Manager/DAL/obj/Debug/net5.0/DAL.AssemblyInfo.cs
+/Users/petrhryhoruk/Downloads/Task Manager/DAL/obj/Debug/net5.0/DAL.csproj.CoreCompileInputs.cache
+/Users/petrhryhoruk/Downloads/Task Manager/DAL/obj/Debug/net5.0/DAL.dll
+/Users/petrhryhoruk/Downloads/Task Manager/DAL/obj/Debug/net5.0/ref/DAL.dll
+/Users/petrhryhoruk/Downloads/Task Manager/DAL/obj/Debug/net5.0/DAL.pdb
+/Users/petrhryhoruk/Documents/GitHub/Task-Manager-/DAL/bin/Debug/net5.0/DAL.deps.json
+/Users/petrhryhoruk/Documents/GitHub/Task-Manager-/DAL/bin/Debug/net5.0/DAL.dll
+/Users/petrhryhoruk/Documents/GitHub/Task-Manager-/DAL/bin/Debug/net5.0/ref/DAL.dll
+/Users/petrhryhoruk/Documents/GitHub/Task-Manager-/DAL/bin/Debug/net5.0/DAL.pdb
+/Users/petrhryhoruk/Documents/GitHub/Task-Manager-/DAL/obj/Debug/net5.0/DAL.csproj.AssemblyReference.cache
+/Users/petrhryhoruk/Documents/GitHub/Task-Manager-/DAL/obj/Debug/net5.0/DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrhryhoruk/Documents/GitHub/Task-Manager-/DAL/obj/Debug/net5.0/DAL.AssemblyInfoInputs.cache
+/Users/petrhryhoruk/Documents/GitHub/Task-Manager-/DAL/obj/Debug/net5.0/DAL.AssemblyInfo.cs
+/Users/petrhryhoruk/Documents/GitHub/Task-Manager-/DAL/obj/Debug/net5.0/DAL.csproj.CoreCompileInputs.cache
+/Users/petrhryhoruk/Documents/GitHub/Task-Manager-/DAL/obj/Debug/net5.0/DAL.dll
+/Users/petrhryhoruk/Documents/GitHub/Task-Manager-/DAL/obj/Debug/net5.0/ref/DAL.dll
+/Users/petrhryhoruk/Documents/GitHub/Task-Manager-/DAL/obj/Debug/net5.0/DAL.pdb

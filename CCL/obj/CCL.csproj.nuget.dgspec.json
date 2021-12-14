@@ -1,0 +1,225 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/petrhryhoruk/Documents/GitHub/Task-Manager-/CCL/CCL.csproj": {}
+  },
+  "projects": {
+    "/Users/petrhryhoruk/Documents/GitHub/Task-Manager-/CCL/CCL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/petrhryhoruk/Documents/GitHub/Task-Manager-/CCL/CCL.csproj",
+        "projectName": "CCL",
+        "projectPath": "/Users/petrhryhoruk/Documents/GitHub/Task-Manager-/CCL/CCL.csproj",
+        "packagesPath": "/Users/petrhryhoruk/.nuget/packages/",
+        "outputPath": "/Users/petrhryhoruk/Documents/GitHub/Task-Manager-/CCL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/petrhryhoruk/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/petrhryhoruk/Documents/GitHub/Task-Manager-/DAL.Tests/DAL.Tests.csproj": {
+                "projectPath": "/Users/petrhryhoruk/Documents/GitHub/Task-Manager-/DAL.Tests/DAL.Tests.csproj"
+              },
+              "/Users/petrhryhoruk/Documents/GitHub/Task-Manager-/DAL/DAL.csproj": {
+                "projectPath": "/Users/petrhryhoruk/Documents/GitHub/Task-Manager-/DAL/DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/petrhryhoruk/Documents/GitHub/Task-Manager-/DAL.Tests/DAL.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/petrhryhoruk/Documents/GitHub/Task-Manager-/DAL.Tests/DAL.Tests.csproj",
+        "projectName": "DAL.Tests",
+        "projectPath": "/Users/petrhryhoruk/Documents/GitHub/Task-Manager-/DAL.Tests/DAL.Tests.csproj",
+        "packagesPath": "/Users/petrhryhoruk/.nuget/packages/",
+        "outputPath": "/Users/petrhryhoruk/Documents/GitHub/Task-Manager-/DAL.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/petrhryhoruk/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/petrhryhoruk/Documents/GitHub/Task-Manager-/DAL/DAL.csproj": {
+                "projectPath": "/Users/petrhryhoruk/Documents/GitHub/Task-Manager-/DAL/DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.1, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/petrhryhoruk/Documents/GitHub/Task-Manager-/DAL/DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/petrhryhoruk/Documents/GitHub/Task-Manager-/DAL/DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "/Users/petrhryhoruk/Documents/GitHub/Task-Manager-/DAL/DAL.csproj",
+        "packagesPath": "/Users/petrhryhoruk/.nuget/packages/",
+        "outputPath": "/Users/petrhryhoruk/Documents/GitHub/Task-Manager-/DAL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/petrhryhoruk/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
